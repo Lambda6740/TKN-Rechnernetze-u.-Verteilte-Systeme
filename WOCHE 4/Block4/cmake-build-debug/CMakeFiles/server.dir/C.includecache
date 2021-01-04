@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/solarwind6740/Studium/3.Semester/RNVS/WOCHE 4/Block4/lib/dht.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+netinet/in.h
+-
+
+/home/solarwind6740/Studium/3.Semester/RNVS/WOCHE 4/Block4/lib/uthash.h
+string.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdio.h
+-
+
+/home/solarwind6740/Studium/3.Semester/RNVS/WOCHE 4/Block4/server.c
+lib/dht.h
+/home/solarwind6740/Studium/3.Semester/RNVS/WOCHE 4/Block4/lib/dht.h
+stdio.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+unistd.h
+-
+argp.h
+-
+pcap.h
+-
+lib/uthash.h
+/home/solarwind6740/Studium/3.Semester/RNVS/WOCHE 4/Block4/lib/uthash.h
+

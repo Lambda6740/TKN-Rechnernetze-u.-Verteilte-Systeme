@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WOCHE_1.dir/main.c.o  -o WOCHE_1 

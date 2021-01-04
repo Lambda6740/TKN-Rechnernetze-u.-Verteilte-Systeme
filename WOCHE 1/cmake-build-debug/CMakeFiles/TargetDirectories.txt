@@ -1,0 +1,3 @@
+/home/mahbod/Studium/3.Semester/RNVS/WOCHE 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mahbod/Studium/3.Semester/RNVS/WOCHE 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mahbod/Studium/3.Semester/RNVS/WOCHE 1/cmake-build-debug/CMakeFiles/WOCHE_1.dir
